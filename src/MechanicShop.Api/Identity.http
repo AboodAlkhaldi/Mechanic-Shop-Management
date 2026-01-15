@@ -5,8 +5,8 @@ POST {{baseUrl}}/token/generate
 Content-Type: application/json
 
 {
-    "email": "pm@localhost",
-    "password": "pm@localhost"
+    "email": "Abood@gmail",
+    "password": "Abood@gmail"
 }
 
 ### Login As Labor
